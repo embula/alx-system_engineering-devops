@@ -1,3 +1,2 @@
 #!/bin/bash
-echo readlink -f “${BASH_SOURCE:-$0}”
->>
+echo readlink -f “${BASH_SOURCE:-$0}” >>
