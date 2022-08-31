@@ -1,2 +1,3 @@
 #!/bin/bash
-"readlink -m \n"
+readlink -m
+echo $?
