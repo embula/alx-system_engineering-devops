@@ -1,4 +1,1 @@
-
-This is my README.md file for my devops 
-
-My devops repository -  ALX
+Script that prints the absolute path name of the current working directory
